@@ -58,7 +58,7 @@ If CVE checks are enabled, you will be prompted to choose a CVE source:
 1. **NVD (National Vulnerability Database)**
 2. **CVE Details**
 
-Enter the number corresponding to your choice to fetch vulnerabilities for the open ports.
+Enter the number corresponding to your choice to fetch vulnerabilities for the open ports and add Token in the code for CVE Details.
 
 ## Important Notes
 
